@@ -1,4 +1,5 @@
 # This is a generated file; do not edit or check into version control.
+get_thumbnail_video=/home/satrujit/.pub-cache/hosted/pub.dev/get_thumbnail_video-0.7.3/
 path_provider=/home/satrujit/.pub-cache/hosted/pub.dev/path_provider-2.0.10/
 path_provider_android=/home/satrujit/.pub-cache/hosted/pub.dev/path_provider_android-2.0.11/
 path_provider_ios=/home/satrujit/.pub-cache/hosted/pub.dev/path_provider_ios-2.0.7/
@@ -7,4 +8,3 @@ path_provider_macos=/home/satrujit/.pub-cache/hosted/pub.dev/path_provider_macos
 path_provider_windows=/home/satrujit/.pub-cache/hosted/pub.dev/path_provider_windows-2.0.6/
 sqflite=/home/satrujit/.pub-cache/hosted/pub.dev/sqflite-2.0.2/
 sqlite3_flutter_libs=/home/satrujit/.pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.7/
-video_thumbnail=/home/satrujit/.pub-cache/hosted/pub.dev/video_thumbnail-0.5.3/

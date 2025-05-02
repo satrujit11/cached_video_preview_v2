@@ -4,8 +4,9 @@ import 'dart:typed_data';
 import 'package:cached_video_preview/src/database/database.dart';
 import 'package:cached_video_preview/src/models/source_type.dart';
 import 'package:cached_video_preview/src/models/video_preview_data.dart';
+import 'package:get_thumbnail_video/index.dart';
+import 'package:get_thumbnail_video/video_thumbnail.dart';
 import 'package:metadata_fetch/metadata_fetch.dart';
-import 'package:video_thumbnail/video_thumbnail.dart';
 
 /// This is a class that helps to combine fetching a preview
 /// and saving it to the database.
