@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:typed_data';
 
-import 'package:cached_video_preview/src/helper/cache_helper.dart';
-import 'package:cached_video_preview/src/models/source_type.dart';
-import 'package:cached_video_preview/src/models/video_preview_data.dart';
+import 'package:cached_video_preview_v2/src/helper/cache_helper.dart';
+import 'package:cached_video_preview_v2/src/models/source_type.dart';
+import 'package:cached_video_preview_v2/src/models/video_preview_data.dart';
 import 'package:flutter/material.dart';
 
 /// Remote Image Builder typedef
